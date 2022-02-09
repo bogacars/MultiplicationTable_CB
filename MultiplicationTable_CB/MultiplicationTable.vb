@@ -2,7 +2,7 @@
 'RCET 0265
 'Spring 22
 'Multiplication Table
-'
+'https://github.com/bogacars/MultiplicationTable_CB.git
 
 Option Explicit On
 Option Strict On
@@ -20,5 +20,4 @@ Module MultiplicationTable
         Next
         Console.ReadLine()
     End Sub
-
 End Module
